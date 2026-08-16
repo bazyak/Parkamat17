@@ -1,0 +1,145 @@
+<resources>
+    <!-- Converter categories -->
+    <string name="cat_length">Length</string>
+    <string name="cat_mass">Mass</string>
+    <string name="cat_temperature">Temperature</string>
+    <string name="cat_speed">Speed</string>
+    <string name="cat_area">Area</string>
+    <string name="cat_volume">Volume</string>
+    <string name="cat_time">Time</string>
+    <string name="cat_energy">Energy</string>
+    <string name="cat_pressure">Pressure</string>
+    <string name="cat_power">Power</string>
+    <string name="cat_data">Data Storage</string>
+    <string name="cat_cooking">Cooking</string>
+    <string name="cat_torque">Torque</string>
+
+    <!-- Length -->
+    <string name="unit_kilometre">Kilometre</string>
+    <string name="unit_mile">Mile</string>
+    <string name="unit_metre">Metre</string>
+    <string name="unit_centimetre">Centimetre</string>
+    <string name="unit_millimetre">Millimetre</string>
+    <string name="unit_micrometre">Micrometre</string>
+    <string name="unit_nanometre">Nanometre</string>
+    <string name="unit_yard">Yard</string>
+    <string name="unit_foot">Foot</string>
+    <string name="unit_inch">Inch</string>
+    <string name="unit_nautical_mile">Nautical Mile</string>
+    <string name="unit_furlong">Furlong</string>
+
+    <!-- Mass -->
+    <string name="unit_kilogram">Kilogram</string>
+    <string name="unit_pound">Pound</string>
+    <string name="unit_gram">Gram</string>
+    <string name="unit_milligram">Milligram</string>
+    <string name="unit_ounce">Ounce</string>
+    <string name="unit_stone">Stone</string>
+    <string name="unit_metric_ton">Metric Ton</string>
+    <string name="unit_short_ton">Short Ton (US)</string>
+    <string name="unit_long_ton">Long Ton (UK)</string>
+    <string name="unit_grain">Grain</string>
+
+    <!-- Temperature -->
+    <string name="unit_celsius">Celsius</string>
+    <string name="unit_fahrenheit">Fahrenheit</string>
+    <string name="unit_kelvin">Kelvin</string>
+    <string name="unit_rankine">Rankine</string>
+    <string name="unit_delisle">Delisle</string>
+    <string name="unit_newton_t">Newton</string>
+    <string name="unit_reaumur">Réaumur</string>
+
+    <!-- Speed -->
+    <string name="unit_kmh">km/h</string>
+    <string name="unit_mph">mph</string>
+    <string name="unit_ms">m/s</string>
+    <string name="unit_fts">ft/s</string>
+    <string name="unit_knot">Knot</string>
+
+    <!-- Area -->
+    <string name="unit_sq_kilometre">sq. kilometre</string>
+    <string name="unit_sq_metre">sq. metre</string>
+    <string name="unit_sq_centimetre">sq. centimetre</string>
+    <string name="unit_hectare">Hectare</string>
+    <string name="unit_sq_mile">sq. mile</string>
+    <string name="unit_sq_yard">sq. yard</string>
+    <string name="unit_sq_foot">sq. foot</string>
+    <string name="unit_sq_inch">sq. inch</string>
+    <string name="unit_acre">Acre</string>
+
+    <!-- Volume -->
+    <string name="unit_litre">Litre</string>
+    <string name="unit_millilitre">Millilitre</string>
+    <string name="unit_cubic_metre">Cubic metre</string>
+    <string name="unit_cubic_cm">Cubic centimetre</string>
+    <string name="unit_cubic_inch">Cubic inch</string>
+    <string name="unit_cubic_foot">Cubic foot</string>
+    <string name="unit_gallon_us">Gallon (US)</string>
+    <string name="unit_gallon_uk">Gallon (UK)</string>
+    <string name="unit_quart_us">Quart (US)</string>
+    <string name="unit_pint_us">Pint (US)</string>
+    <string name="unit_cup_us">Cup (US)</string>
+    <string name="unit_fl_oz_us">Fl. Oz (US)</string>
+    <string name="unit_barrel_us">Barrel (US)</string>
+
+    <!-- Time -->
+    <string name="unit_year">Year</string>
+    <string name="unit_month">Month (avg)</string>
+    <string name="unit_week">Week</string>
+    <string name="unit_day">Day</string>
+    <string name="unit_hour">Hour</string>
+    <string name="unit_minute">Minute</string>
+    <string name="unit_second">Second</string>
+    <string name="unit_millisecond">Millisecond</string>
+    <string name="unit_nanosecond">Nanosecond</string>
+
+    <!-- Energy -->
+    <string name="unit_joule">Joule</string>
+    <string name="unit_kilojoule">Kilojoule</string>
+    <string name="unit_calorie">Calorie</string>
+    <string name="unit_kilocalorie">Kilocalorie</string>
+    <string name="unit_kwh">Kilowatt-hour</string>
+    <string name="unit_btu">BTU</string>
+    <string name="unit_ft_lbf">ft·lbf</string>
+
+    <!-- Pressure -->
+    <string name="unit_pascal">Pascal</string>
+    <string name="unit_kilopascal">Kilopascal</string>
+    <string name="unit_megapascal">Megapascal</string>
+    <string name="unit_bar">Bar</string>
+    <string name="unit_psi">psi</string>
+    <string name="unit_atmosphere">Atmosphere</string>
+    <string name="unit_mmhg">mmHg</string>
+    <string name="unit_torr">Torr</string>
+
+    <!-- Power -->
+    <string name="unit_watt">Watt</string>
+    <string name="unit_kilowatt">Kilowatt</string>
+    <string name="unit_megawatt">Megawatt</string>
+    <string name="unit_hp_metric">HP (metric)</string>
+    <string name="unit_hp_uk">HP (UK)</string>
+    <string name="unit_btu_s">BTU/s</string>
+
+    <!-- Data -->
+    <string name="unit_bit">Bit</string>
+    <string name="unit_byte">Byte</string>
+    <string name="unit_kilobit">Kilobit</string>
+    <string name="unit_kilobyte">Kilobyte</string>
+    <string name="unit_megabit">Megabit</string>
+    <string name="unit_megabyte">Megabyte</string>
+    <string name="unit_gigabit">Gigabit</string>
+    <string name="unit_gigabyte">Gigabyte</string>
+    <string name="unit_terabit">Terabit</string>
+    <string name="unit_terabyte">Terabyte</string>
+
+    <!-- Cooking -->
+    <string name="unit_teaspoon_us">Teaspoon (US)</string>
+    <string name="unit_tablespoon_us">Tablespoon (US)</string>
+    <string name="unit_fl_oz_uk">Fl. Oz (UK)</string>
+    <string name="unit_pint_uk">Pint (UK)</string>
+    <string name="unit_gallon_ukc">Gallon (UK)</string>
+
+    <!-- Torque -->
+    <string name="unit_newton_metre">Newton·metre</string>
+    <string name="unit_in_lbf">in·lbf</string>
+</resources>

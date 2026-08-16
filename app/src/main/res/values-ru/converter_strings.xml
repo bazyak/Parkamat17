@@ -1,0 +1,145 @@
+<resources>
+    <!-- Категории -->
+    <string name="cat_length">Длина</string>
+    <string name="cat_mass">Масса</string>
+    <string name="cat_temperature">Температура</string>
+    <string name="cat_speed">Скорость</string>
+    <string name="cat_area">Площадь</string>
+    <string name="cat_volume">Объём</string>
+    <string name="cat_time">Время</string>
+    <string name="cat_energy">Энергия</string>
+    <string name="cat_pressure">Давление</string>
+    <string name="cat_power">Мощность</string>
+    <string name="cat_data">Данные</string>
+    <string name="cat_cooking">Кулинария</string>
+    <string name="cat_torque">Момент силы</string>
+
+    <!-- Длина -->
+    <string name="unit_kilometre">Километр</string>
+    <string name="unit_mile">Миля</string>
+    <string name="unit_metre">Метр</string>
+    <string name="unit_centimetre">Сантиметр</string>
+    <string name="unit_millimetre">Миллиметр</string>
+    <string name="unit_micrometre">Микрометр</string>
+    <string name="unit_nanometre">Нанометр</string>
+    <string name="unit_yard">Ярд</string>
+    <string name="unit_foot">Фут</string>
+    <string name="unit_inch">Дюйм</string>
+    <string name="unit_nautical_mile">Морская миля</string>
+    <string name="unit_furlong">Фурлонг</string>
+
+    <!-- Масса -->
+    <string name="unit_kilogram">Килограмм</string>
+    <string name="unit_pound">Фунт</string>
+    <string name="unit_gram">Грамм</string>
+    <string name="unit_milligram">Миллиграмм</string>
+    <string name="unit_ounce">Унция</string>
+    <string name="unit_stone">Стоун</string>
+    <string name="unit_metric_ton">Метрическая тонна</string>
+    <string name="unit_short_ton">Короткая тонна (США)</string>
+    <string name="unit_long_ton">Длинная тонна (Великобритания)</string>
+    <string name="unit_grain">Гран</string>
+
+    <!-- Температура -->
+    <string name="unit_celsius">Цельсий</string>
+    <string name="unit_fahrenheit">Фаренгейт</string>
+    <string name="unit_kelvin">Кельвин</string>
+    <string name="unit_rankine">Ранкин</string>
+    <string name="unit_delisle">Делиль</string>
+    <string name="unit_newton_t">Ньютон</string>
+    <string name="unit_reaumur">Реомюр</string>
+
+    <!-- Скорость -->
+    <string name="unit_kmh">км/ч</string>
+    <string name="unit_mph">миль/ч</string>
+    <string name="unit_ms">м/с</string>
+    <string name="unit_fts">фут/с</string>
+    <string name="unit_knot">Узел</string>
+
+    <!-- Площадь -->
+    <string name="unit_sq_kilometre">кв. километр</string>
+    <string name="unit_sq_metre">кв. метр</string>
+    <string name="unit_sq_centimetre">кв. сантиметр</string>
+    <string name="unit_hectare">Гектар</string>
+    <string name="unit_sq_mile">кв. миля</string>
+    <string name="unit_sq_yard">кв. ярд</string>
+    <string name="unit_sq_foot">кв. фут</string>
+    <string name="unit_sq_inch">кв. дюйм</string>
+    <string name="unit_acre">Акр</string>
+
+    <!-- Объём -->
+    <string name="unit_litre">Литр</string>
+    <string name="unit_millilitre">Миллилитр</string>
+    <string name="unit_cubic_metre">Кубический метр</string>
+    <string name="unit_cubic_cm">Кубический сантиметр</string>
+    <string name="unit_cubic_inch">Кубический дюйм</string>
+    <string name="unit_cubic_foot">Кубический фут</string>
+    <string name="unit_gallon_us">Галлон (США)</string>
+    <string name="unit_gallon_uk">Галлон (Великобритания)</string>
+    <string name="unit_quart_us">Кварта (США)</string>
+    <string name="unit_pint_us">Пинта (США)</string>
+    <string name="unit_cup_us">Чашка (США)</string>
+    <string name="unit_fl_oz_us">Жидк. унция (США)</string>
+    <string name="unit_barrel_us">Баррель (США)</string>
+
+    <!-- Время -->
+    <string name="unit_year">Год</string>
+    <string name="unit_month">Месяц (ср.)</string>
+    <string name="unit_week">Неделя</string>
+    <string name="unit_day">День</string>
+    <string name="unit_hour">Час</string>
+    <string name="unit_minute">Минута</string>
+    <string name="unit_second">Секунда</string>
+    <string name="unit_millisecond">Миллисекунда</string>
+    <string name="unit_nanosecond">Наносекунда</string>
+
+    <!-- Энергия -->
+    <string name="unit_joule">Джоуль</string>
+    <string name="unit_kilojoule">Килоджоуль</string>
+    <string name="unit_calorie">Калория</string>
+    <string name="unit_kilocalorie">Килокалория</string>
+    <string name="unit_kwh">Киловатт-час</string>
+    <string name="unit_btu">БТЕ</string>
+    <string name="unit_ft_lbf">фут·фунт-сила</string>
+
+    <!-- Давление -->
+    <string name="unit_pascal">Паскаль</string>
+    <string name="unit_kilopascal">Килопаскаль</string>
+    <string name="unit_megapascal">Мегапаскаль</string>
+    <string name="unit_bar">Бар</string>
+    <string name="unit_psi">фунт/кв.дюйм</string>
+    <string name="unit_atmosphere">Атмосфера</string>
+    <string name="unit_mmhg">мм рт. ст.</string>
+    <string name="unit_torr">Торр</string>
+
+    <!-- Мощность -->
+    <string name="unit_watt">Ватт</string>
+    <string name="unit_kilowatt">Киловатт</string>
+    <string name="unit_megawatt">Мегаватт</string>
+    <string name="unit_hp_metric">Л.с. (метр.)</string>
+    <string name="unit_hp_uk">Л.с. (брит.)</string>
+    <string name="unit_btu_s">БТЕ/с</string>
+
+    <!-- Данные -->
+    <string name="unit_bit">Бит</string>
+    <string name="unit_byte">Байт</string>
+    <string name="unit_kilobit">Килобит</string>
+    <string name="unit_kilobyte">Килобайт</string>
+    <string name="unit_megabit">Мегабит</string>
+    <string name="unit_megabyte">Мегабайт</string>
+    <string name="unit_gigabit">Гигабит</string>
+    <string name="unit_gigabyte">Гигабайт</string>
+    <string name="unit_terabit">Терабит</string>
+    <string name="unit_terabyte">Терабайт</string>
+
+    <!-- Кулинария -->
+    <string name="unit_teaspoon_us">Чайная ложка (США)</string>
+    <string name="unit_tablespoon_us">Столовая ложка (США)</string>
+    <string name="unit_fl_oz_uk">Жидк. унция (Великобритания)</string>
+    <string name="unit_pint_uk">Пинта (Великобритания)</string>
+    <string name="unit_gallon_ukc">Галлон (Великобритания)</string>
+
+    <!-- Момент силы -->
+    <string name="unit_newton_metre">Ньютон·метр</string>
+    <string name="unit_in_lbf">дюйм·фунт-сила</string>
+</resources>

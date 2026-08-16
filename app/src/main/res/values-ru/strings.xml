@@ -1,0 +1,107 @@
+<resources>
+
+    <!-- Common -->
+    <string name="app_name">Pakamat 17</string>
+    <string name="close">Закрыть</string>
+    <string name="error">Ошибка &#128552;</string>
+    <string name="working">Выполняется…</string>
+    <string name="previous">Назад</string>
+    <string name="next">Далее</string>
+    <string name="plaintext">Текст</string>
+    <string name="file">Файл (изображение, документ и т. д.)</string>
+    <string name="start">Запустить</string>
+    <string name="encryption_none">Без шифрования</string>
+    <string name="encryption_aes">AES-256</string>
+    <string name="ms">%1$d мс</string>
+    <string name="total_time">Общее время</string>
+    <string name="image_processing">Обработка изображения</string>
+    <string name="statistics">Статистика:</string>
+    <string name="cancel">Отмена</string>
+    <string name="cancel_confirmation">Вы уверены, что хотите прервать операцию?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="data">Данные:</string>
+    <string name="border_text">Текст</string>
+
+    <!-- Unit Converter -->
+    <string name="converter_category">Категория</string>
+    <string name="converter_units">Единицы</string>
+    <string name="converter_from">Из</string>
+    <string name="converter_to">В</string>
+    <string name="converter_value">Значение</string>
+    <string name="converter_result">Результат</string>
+    <string name="converter_enter_value">Введите значение…</string>
+    <string name="menu_steganography">Стеганография</string>
+
+    <!-- Easter egg setup (first launch) -->
+    <string name="setup_title">Настройка секретного кода</string>
+    <string name="setup_description">Выберите комбинацию конвертации, которая откроет скрытую часть приложения. Выберите любой раздел, единицы измерения и секретное число — только для вас.</string>
+    <string name="setup_category_label">Раздел</string>
+    <string name="setup_from_label">Исходная величина</string>
+    <string name="setup_to_label">Целевая величина</string>
+    <string name="setup_value_label">Секретное значение</string>
+    <string name="setup_value_hint">Введите число…</string>
+    <string name="setup_confirm">Сохранить и продолжить</string>
+    <string name="setup_skip">Пропустить (отключить секрет)</string>
+    <string name="setup_error_empty">Введите секретное значение</string>
+
+    <!-- Main (Steganography) -->
+    <string name="main_welcome">Что вы хотите сделать?</string>
+    <string name="main_reveal">Извлечь</string>
+    <string name="main_hide">Скрыть</string>
+    <string name="main_reveal_description">Прочитать данные из изображения</string>
+    <string name="main_hide_description">Записать данные в изображение</string>
+
+    <!-- Hide -->
+    <string name="hide_input">Что вы хотите скрыть?</string>
+    <string name="hide_input_info">Выберите данные для скрытия: текст или файл (изображение, документ, аудио).</string>
+    <string name="hide_input_text_hint">Введите текст здесь…</string>
+    <string name="hide_image">Выберите изображение-контейнер</string>
+    <string name="hide_image_info">Выбранные данные будут скрыты в этом изображении. Внешне оно не изменится.</string>
+    <string name="hide_image_do_not_alter">Изображения, отправленные через мессенджеры со сжатием (Facebook Messenger, WhatsApp), не сохранят скрытые данные</string>
+    <string name="hide_image_too_small">Изображение недостаточно велико для выбранных данных. Выберите изображение большего размера.</string>
+    <string name="hide_image_too_large">Изображение слишком велико. Выберите изображение меньше 25 МБ.</string>
+    <string name="hide_settings">Настройки</string>
+    <string name="hide_encryption">Шифрование</string>
+    <string name="hide_encryption_info">Выберите, нужно ли зашифровать данные паролем. Без шифрования любой, кто получит изображение, сможет извлечь данные.</string>
+    <string name="hide_encryption_password">Пароль</string>
+    <string name="hide_failed">Не удалось скрыть данные из-за неизвестной ошибки</string>
+    <string name="hide_statistics_bytes">%1$s данных успешно скрыто</string>
+    <string name="hide_statistics_hide_time">Скрытие данных</string>
+    <string name="hide_image_too_simple_content">Изображение слишком однородное для надёжного хранения данных. Выберите изображение с большим количеством деталей или большего размера.</string>
+
+    <!-- Reveal -->
+    <string name="reveal_file">Файл:</string>
+    <string name="reveal_file_invalid">В файле не обнаружено скрытых данных. Выберите другой файл.</string>
+    <string name="reveal_plaintext_copied">Текст скопирован в буфер обмена</string>
+    <string name="reveal_copy_to_clipboard">Копировать</string>
+    <string name="reveal_statistics_bytes">Успешно извлечено %1$s данных</string>
+    <string name="reveal_statistics_reveal_time">Извлечение данных</string>
+    <string name="reveal_image">Извлечь данные из изображения</string>
+    <string name="reveal_info_version">Версия формата</string>
+    <string name="reveal_info_type">Тип скрытых данных</string>
+    <string name="reveal_info_encryption">Шифрование</string>
+    <string name="reveal_info">Изображение содержит данные. Нажмите «Запустить» для продолжения.</string>
+    <string name="reveal_info_encrypted">Изображение содержит зашифрованные данные. Введите пароль и нажмите «Запустить».</string>
+    <string name="reveal_failed">Извлечение данных не удалось. Возможные причины:\n\n1) <b>Неверный пароль</b> для зашифрованных данных\n\n2) Изображение не содержит скрытых данных\n\n3) Данные скрыты более новой версией приложения</string>
+
+    <!-- File -->
+    <string name="file_save_image">Сохранить изображение</string>
+    <string name="file_select_image">Выбрать изображение</string>
+    <string name="file_select">Выбрать файл</string>
+    <string name="file_info">%1$s, %2$s</string>
+    <string name="file_saved">Файл успешно сохранён</string>
+    <string name="file_share">Поделиться</string>
+    <string name="file_select_none">Файл не выбран</string>
+    <string name="file_select_image_none">Изображение не выбрано</string>
+
+    <!-- About -->
+    <string name="about_title">О приложении Pakamat 17</string>
+    <string name="about_punchline">Простое, быстрое и открытое Android-приложение для стеганографии.</string>
+    <string name="about_email">info@braffdev.com</string>
+    <string name="about_web">braffdev.com</string>
+    <string name="about_github">GitHub</string>
+    <string name="about_licenses"><u>Лицензии открытого ПО</u></string>
+    <string name="about_version">Версия: %1$s — Сборка: %2$s</string>
+    <string name="about_faq"><u>Часто задаваемые вопросы</u></string>
+</resources>
