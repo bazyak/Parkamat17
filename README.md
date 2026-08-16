@@ -1,4 +1,4 @@
-# Pakamat 17
+# Parkamat 17
 
 A personal Android app that presents itself as a simple unit converter while hiding a full-featured steganography tool behind a user-defined secret code.
 
