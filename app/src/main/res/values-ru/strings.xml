@@ -1,7 +1,7 @@
 <resources>
 
     <!-- Common -->
-    <string name="app_name">Pakamat 17</string>
+    <string name="app_name">Parkamat 17</string>
     <string name="close">Закрыть</string>
     <string name="error">Ошибка &#128552;</string>
     <string name="working">Выполняется…</string>
